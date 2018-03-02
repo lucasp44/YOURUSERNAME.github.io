@@ -24,7 +24,11 @@ Sometimes it take github up to 10 minutes to actually show any changes or new bl
 
 ### Step 3) Publish your first blog post
 
-Edit `/_posts/2014-3-3-Hello-World.html` to publish your first blog post. Notice this is not a full HTML page. You are only writing what would normally go inside the `<body>` tags of a full HTML page. 
+Go to the `/_posts/` folder. Then put `2014-3-3-Hello-World.html` in edit mode.
+
+Notice this is not a full HTML page. You are only writing what would normally go inside the `<body>` tags of a full HTML page. 
+
+Make some changes to this page (but see the part between the `---` and the `---` at the top of the page? that needs to stay there. you can change the title if you want.)
 
 
 ### Step 4) Creating new blog posts
