@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<p>This is the About page! It's not really a blog page, just a link that shows up at the top of every page.</p>
 
-### More Information
+<h3>More Information</h3>
 
-A place to include any other types of information that you'd like to include about yourself.
+<p>A place to include any other types of information that you'd like to include about yourself.</p>
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
