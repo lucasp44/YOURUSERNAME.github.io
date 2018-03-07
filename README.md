@@ -6,11 +6,15 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
-## Quick Start
+## Instructions
+
+### Step 0) You need a github account.
+
+See Mr. Smith if you don't have one.
 
 ### Step 1) Make a copy of this repo for yourself
 
-Fork this repo, then go to settings. In the name of the repo, change `YOURUSERNAME` to your actual github username. It's important that you keep the `.github.io` after your username. My github username is `andytilia` so my repo name would be `andytilia.github.io`.
+Log in to github and fork this repo, then go to settings. In the name of the repo, change `YOURUSERNAME` to your actual github username. It's important that you keep the `.github.io` after your username. My github username is `andytilia` so my repo name would be `andytilia.github.io`.
 
 Your Jekyll blog will soon be viewable immediately at <https://YOURUSERNAME.github.io> .
 
